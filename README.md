@@ -21,7 +21,7 @@ src/
 
 
 # Clone the repo:
-git 
+git clone https://github.com/nasir121ansari/enterprise-app
 cd scalable-frontend-setup
 
 # Install dependencies:
